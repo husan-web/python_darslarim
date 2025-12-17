@@ -8,13 +8,13 @@
 # )
 
 
-# taom = {
-#     "sunnatillo": "osh",
-#     "gulnoz": "honim",
-#     "behruz": "gosht",
-#     "hasan": "kabob",
-#     "husan": "norin",
-#     "zulayho": "lavash", }
+taom = {
+    "sunnatillo": "osh",
+    "gulnoz": "honim",
+    "behruz": "gosht",
+    "hasan": "kabob",
+    "husan": "norin",
+    "zulayho": "lavash", }
 # print(
 #     f"dadamning yoqtirgan taomi {taom['sunnatillo']}\n"
 #     f"onamning yoqtirgan taomi {taom['gulnoz']}\n"
