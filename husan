@@ -1,0 +1,10 @@
+#please write hello world function in python
+def hello_world():
+    return "Hello, World!"
+print(hello_world())
+
+#aylanani yuzini hisoblovchi funksiya yoz
+import math
+def aylana_yuzi(radius):
+    return math.pi * radius ** 2
+print(aylana_yuzi(5))
