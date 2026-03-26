@@ -1,4 +1,3 @@
-# python_darslarim
 # Python darslarim (python_darslarim)
 
 Ushbu repositoryda mening Python dasturlash tilini o‘rganish jarayonim davomida yozilgan amaliy mashqlar va misollar jamlangan.
