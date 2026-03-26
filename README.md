@@ -12,7 +12,7 @@ This project includes beginner to intermediate Python lessons covering core prog
 - Lists, Tuples, Dictionaries
 - File Handling
 
-## 💻 Technologies
+## Technologies
 - Python
 
 ## Purpose
